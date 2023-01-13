@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piv0zavr&label=Profile%20views&color=0e75b6&style=flat" alt="piv0zavr" /> </p>
 
-- 🌱 I’m currently learning **c#, dart and python**
+- 🌱 I’m currently learning **Go, dart and python**
 
 - 💬 Ask me about **python, digital signal processing**
 
-- 📫 How to reach me **- trebbeat@gmail.com**
+- 📫 How to reach me **- my@ncherkasov.ru*
 
 - ⚡ Fun fact **One day I was writing music and learned about the Fourier transform. The world has never been the same for me again.**
 
