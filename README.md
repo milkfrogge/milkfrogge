@@ -11,6 +11,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=milkfrogge&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=milkfrogge&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+![](https://leetcard.jacoblin.cool/milkfrogge?ext=heatmap)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
