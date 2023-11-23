@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Nick</h1>
 
-#About Me:
+# About Me:
 🔭 I’m currently working on  project called Coffee-Store (you can see progress on https://github.com/milkfrogge/coffee-store/tree/develop), solving problems in leetcode (https://github.com/milkfrogge/Leetcode-Solutions) and want to create client for Graylog on Golang. <br>❔ I’m looking for help with Golang and Flutter<br>📖 I’m currently learning  message brokers and cache systems<br>📫 How to reach me - my@ncherkasov.ru<br>💬 Ask me about Golang, microservices, digital signal processing, and clean architecture
 
 
